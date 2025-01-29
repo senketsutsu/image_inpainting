@@ -21,3 +21,5 @@ After training, the generator is able to fill in missing regions, producing inpa
 
 ## Demo
 You can interact with the trained model: https://huggingface.co/spaces/akrasi/CATastrophe
+
+![image](https://github.com/user-attachments/assets/8b1b754d-9739-4ddf-807b-500dec63b34c)
